@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.okay.test.demo03.QQExerciseView
+        android:id="@+id/qqExerciseView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:borderWidth="20dp"
+        app:exerciseTextColor="@color/colorAccent"
+        app:exerciseTextSize="20sp"
+        app:exerciseText="哈qqqqqqq哈哈qqq哈哈qqqqqqqqqqq哈"
+        app:innerColor="@color/colorPrimary"
+        app:outColor="@color/colorAccent" />
+
+</LinearLayout>

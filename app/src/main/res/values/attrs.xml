@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QQExerciseView">
+        <attr name="outColor" format="color"/>
+        <attr name="innerColor" format="color"/>
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="exerciseTextSize" format="dimension"/>
+        <attr name="exerciseTextColor" format="color"/>
+        <attr name="exerciseText" format="string"/>
+    </declare-styleable>
+</resources>

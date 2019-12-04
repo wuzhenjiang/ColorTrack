@@ -1,0 +1,2 @@
+include ':app', ':demo_view04'
+rootProject.name='Demo03'
